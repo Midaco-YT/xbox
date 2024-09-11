@@ -1,0 +1,54 @@
+[
+  {
+    "url": "http://assets1.xboxlive.com/12/e0df2bfa-36fb-4c08-8cd2-04e9da6e456c/7a7853f9-b5fa-42f3-b02e-d57beacf4293/5.11.0.0.a04a865b-cb04-44ef-bebd-9cbe4d6fd017/HelloGames.NoMansSky_5.11.0.0_x64__bs190hzg1sesy.msixvc",
+    "name": "No Man's Sky"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/8/31e9abe6-f101-4a21-a875-1a04c537960e/a231bc6f-3b30-4c80-919e-dcea2086e602/2.133.2214.0.4e12a0a3-7d61-4cf3-8e32-a5239fe41040/Microsoft.SeaofThieves_2.133.2214.0_x64__8wekyb3d8bbwe.msixvc",
+    "name": "Sea of Thieves"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/10/6f21c637-7261-4582-b06f-11c432d25ef3/3d263e92-93cd-4f9b-90c7-5438150cecbf/3.660.281.0.ec989d89-a760-4eb5-a14f-095480803464/Microsoft.624F8B84B80_3.660.281.0_x64__8wekyb3d8bbwe.msixvc",
+    "name": "Forza Horizon 5"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/10/6f21c637-7261-4582-b06f-11c432d25ef3/3d263e92-93cd-4f9b-90c7-5438150cecbf/3.660.281.0.ec989d89-a760-4eb5-a14f-095480803464/Microsoft.624F8B84B80_3.660.281.0_x64__8wekyb3d8bbwe.msixvc",
+    "name": "ARK: Survival Evolved"
+  },
+  {
+    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/43465e3f-c096-40bf-952c-cd0a48bb9700?P1=1726103775&P2=404&P3=2&P4=j4ffQEecnXGqub9QRmPDa1VbIB40LUMP%2fsy7HbUBkyNry5YB6Yty56GKN0v%2bf5eLZsIqtU8NnZGXIw4jHleeSA%3d%3d",
+    "name": "ARK: Survival Ascend"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/10/b4e663bc-c0e2-4c11-b790-6821697e2bc4/132934f3-af9d-4262-9f72-270c20395638/1.24.0.0.5322d240-c63b-4cc3-a7d1-aae5a0535c02/DoubleFineProductionsInc.GangBeasts_1.24.0.0_x64__s9zt93y1rpe5a.msixvc",
+    "name": "Gang Beast"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/6/1ada7cda-4483-4a89-8b6e-867ee3a86f05/e7a7aa15-6b79-4dd4-ba75-e090489f545b/1.14.1.0.2e2f4a77-1155-40f3-a183-c869cd03bc03/CurveDigital.HumanFallFlat_1.14.1.0_x64__1ezqdnbhnc70m.msixvc",
+    "name": "Human fall flat"
+  },
+  {
+    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/419f51b0-9c8c-4929-a004-898abb39b46c?P1=1726107744&P2=404&P3=2&P4=GYbiCg3L8wgW%2bBPWUxQjauoQJjVInf2oHb8LXjCB%2fhOmcFic2iOfM6yCVJerBC%2fVhz9JE79FHWz%2b5UaHVCcAkQ%3d%3d",
+    "name": "Astroneer"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/7/bc21d763-6898-43a8-9f85-2b43aa3d6db1/fcda7254-c643-4841-a171-e32d81804ee1/1.2.42145.0.71444cb9-35ee-43e9-9a8b-b4c1f589a80f/ROCKFISHGames.EVERSPACE2_1.2.42145.0_x64__wm11qtfe9fmzj.msixvc",
+    "name": "Everspace"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/4/1c7949b5-08c2-44e3-bfb5-4b5cf69fcf4a/db9969e0-4ac6-4b03-8dc1-af545f733be8/1.13.61.0.575e6fd5-f28d-4b61-a83b-bd1f0880b385/BethesdaSoftworks.ProjectGold_1.13.61.0_x64__3275kfvn8vcwc.msixvc",
+    "name": "Starfield"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/9/c6aef7d3-fb79-418c-959d-b884afd812bf/ff4f9db9-ad59-4fe1-bf90-a3b205f0f4a5/0.0.7.0.6560b4a1-629e-482b-8474-b88476c4c0e3/BethesdaSoftworks.PGPreorderContentwPkg_0.0.7.0_x64__3275kfvn8vcwc.msixvc",
+    "name": "Starfield DLC"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/13/6b3b5b9b-77e8-4bb0-94c0-5f263643ae71/239bb116-7c0e-47a6-b38b-af8d7b8e3c16/1.24.0.0.4969f2f2-1f7a-464f-91fd-2f812db5c4c3/BethesdaSoftworks.SkyrimSE-PC_1.24.0.0_x64__3275kfvn8vcwc.msixvc",
+    "name": "Skyrim Special Edition"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/11/26dd2558-017c-4ba7-965c-8a7cd0da2a56/d8ffe038-7663-40d9-aecb-c6995dc8e09a/6.0.21.0.5115e4f7-122c-4756-8a43-c19196a84ad8/WarnerBros.Interactive.ea2bab08-46b7-40e4-bdd5-590_6.0.21.0_x64__ktmk1xygcecda.msixvc",
+    "name": "Gotham Knight"
+  }
+]
