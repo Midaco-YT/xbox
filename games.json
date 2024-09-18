@@ -58,5 +58,57 @@
   {
     "url": "",
     "name": "FarCry 5 (Soon)"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/4/53cfb28d-ea22-4780-b92e-2ac60637202a/adf69f25-3efa-4a96-8cc7-a89d21fe390d/1.1.5.0.958dd8fe-0a84-4ee3-a943-89744e41bb35/FrictionalGames.AmnesiaTheBunker_1.1.5.0_x64__yhrbwy6qaj8bt.msixvc",
+    "name": "Amnesia: The Bunker"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/8/681cc0eb-b774-4cab-9609-ca76d8707966/14a4a2bb-8454-4753-bc7a-3327ee1b343f/1.0.46.0.e8ea7e43-0b85-4b80-9c72-3fc35756cbc7/TripwireInteractiveLLC.Chivalry2_1.0.46.0_x64__237dqjpew1r3m.msixvc",
+    "name": "Chivalry 2"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/8/352f37db-ddbb-46df-8fdc-f76096b69eb1/73b8ebee-d904-4fcb-a9f5-1a4ae5e90b0c/8979.204.1650.0.59a358c5-d364-4179-bad9-910ca08cb02c/FuncomOsloAS.ConanExiles_8979.204.1650.0_x64__pkaskhy6cdq4g.msixvc",
+    "name": "Conan Exile"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/11/a2589629-8a8a-4b5c-9f2c-ae74063c878e/c7e6d20e-64be-4559-b938-e46b38681820/8.2.200.0.712b7616-859b-4d44-9f8d-a28a55c80f0d/BehaviourInteractive.DeadbyDaylightWindows_8.2.200.0_x64__b1gz2xhdanwfm.msixvc",
+    "name": "Dead by Daylight"
+  },
+  {
+    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c454e302-9b2d-4c91-a318-68a52f608d3d?P1=1726705440&P2=404&P3=2&P4=VPmG%2fbuTlAqhd%2fYtA3r5FVb4FzD2CT%2fpggU%2fQGF%2f9EYcxmgodU%2fIdcHPZgZFEmMSX1s2eUfYZyD78jRXIBmWGw%3d%3d",
+    "name": "Disneyland Adventure"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/9/7e625b90-9aec-4822-a688-f75552436510/faf2ec8b-abea-4a55-9617-6e78cdc77bd3/12.2.19.0.75f71d53-29b3-4741-90e0-f5f8aa15c0fd/A278AB0D.DisneyDreamlightValley_12.2.19.0_x64__h6adky7gbf63m.msixvc",
+    "name": "Disney Dreamlight Valley"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/10/bc70fe4e-b2de-403c-8c2f-2f7c93482b5a/d07a8552-f6b3-4342-a803-fec1572025ed/1.1.6.0.33b93a1a-e71d-48b1-8b6b-0e54b5af7ab3/CoffeeStainStudios.GoatSimulator3PC_1.1.6.0_x64__496a1srhmar9w.msixvc",
+    "name": "Goat Simulator 3"
+  },
+  {
+    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/95c6f47e-b7bf-40af-910d-242db58ab88c?P1=1726705710&P2=404&P3=2&P4=IHVZxRyrW6Ou0uPjFm%2b9Ih5kRf972NhLJh5wq6CLqeWaUs9I4%2bzHgZYN4lG04CeJZXtNzHKeEy7phrYcOK1%2f6g%3d%3d",
+    "name": "Goat Simulator"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/13/79c7c879-c93f-4419-b4d0-eb8dde4d0d87/407465c8-8d0e-4a22-9a42-2e6777029619/2.4.257.0.9e985427-eb17-49aa-acd7-9b15abb20fb4/Microsoft.Maine_2.4.257.0_x64__8wekyb3d8bbwe.msixvc",
+    "name": "Grounded"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/6/75d6147b-289d-4e33-a001-c568f3c74fc2/9f9ee79e-b11c-4935-b2bd-8d39651e00de/1.2.621.0.feff0c4e-5f4f-463f-8ad3-4e2d21a840ad/Rebellion.52602B995C00E_1.2.621.0_x64__2vbwqmt31j4mr.msixvc",
+    "name": "Sniper Elite 5"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/4/2ab695f4-a612-4438-861e-b1324fefba47/7b025cd7-ed9c-441e-beb7-1bb55d3dff10/20.2405.22.0.8f0294cd-63b6-4589-ad98-98aaecb13eac/39C668CD.PowerWashSimulator_20.2405.22.0_x64__r7bfsmp40f67j.msixvc",
+    "name": "PowerWash Simulator"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/7/e79a5dba-ab03-4752-ac7e-6aafa67a0cac/8bbf2763-a1c6-4f1b-96ca-b79dd5fda4ee/1.5.696.0.8ec885f8-a462-4886-b5b2-3125e7750de9/PrivateDivision.TheOuterWorldsWindows10_1.5.696.0_x64__hv3d7yfbgr2rp.msixvc",
+    "name": "The Outer Worlds"
+  },
+  {
+    "url": "http://assets1.xboxlive.com/5/9e29fcdc-702d-47dd-827b-c71902950302/b8df4dbc-9587-4eab-a6ba-ab2868d15233/1.0.5.0.6d49c450-2335-4ca9-b109-8c070080af0b/PillowCastle.Superliminal_1.0.5.0_x64__r6zr3eg4hg8h4.msixvc",
+    "name": "Superliminal"
   }
 ]
