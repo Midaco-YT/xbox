@@ -1,54 +1,54 @@
 [
   {
-    "url": "http://assets1.xboxlive.com/12/e0df2bfa-36fb-4c08-8cd2-04e9da6e456c/7a7853f9-b5fa-42f3-b02e-d57beacf4293/5.11.0.0.a04a865b-cb04-44ef-bebd-9cbe4d6fd017/HelloGames.NoMansSky_5.11.0.0_x64__bs190hzg1sesy.msixvc",
+    "productId": "BQVQTL3PCH05",
     "name": "No Man's Sky"
   },
   {
-    "url": "http://assets1.xboxlive.com/3/e8d42866-b1a9-4122-9d6d-22a0f3491c23/a231bc6f-3b30-4c80-919e-dcea2086e602/2.133.9415.0.c52f308f-87a9-4c06-ba7d-ce5fd41ffa5f/Microsoft.SeaofThieves_2.133.9415.0_x64__8wekyb3d8bbwe.msixvc",
+    "productId": "9P2N57MC619K",
     "name": "Sea of Thieves"
   },
   {
-    "url": "http://assets1.xboxlive.com/10/6f21c637-7261-4582-b06f-11c432d25ef3/3d263e92-93cd-4f9b-90c7-5438150cecbf/3.660.281.0.ec989d89-a760-4eb5-a14f-095480803464/Microsoft.624F8B84B80_3.660.281.0_x64__8wekyb3d8bbwe.msixvc",
+    "productId": "9NKX70BBCDRN",
     "name": "Forza Horizon 5"
   },
   {
-    "url": "http://assets1.xboxlive.com/10/6f21c637-7261-4582-b06f-11c432d25ef3/3d263e92-93cd-4f9b-90c7-5438150cecbf/3.660.281.0.ec989d89-a760-4eb5-a14f-095480803464/Microsoft.624F8B84B80_3.660.281.0_x64__8wekyb3d8bbwe.msixvc",
+    "url": "9NBLGGH52XC6",
     "name": "ARK: Survival Evolved"
   },
   {
-    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/43465e3f-c096-40bf-952c-cd0a48bb9700?P1=1726103775&P2=404&P3=2&P4=j4ffQEecnXGqub9QRmPDa1VbIB40LUMP%2fsy7HbUBkyNry5YB6Yty56GKN0v%2bf5eLZsIqtU8NnZGXIw4jHleeSA%3d%3d",
+    "productId": "9P33VJGVPHVP",
     "name": "ARK: Survival Ascend"
   },
   {
-    "url": "http://assets1.xboxlive.com/10/b4e663bc-c0e2-4c11-b790-6821697e2bc4/132934f3-af9d-4262-9f72-270c20395638/1.24.0.0.5322d240-c63b-4cc3-a7d1-aae5a0535c02/DoubleFineProductionsInc.GangBeasts_1.24.0.0_x64__s9zt93y1rpe5a.msixvc",
+    "productId": "BPQZT43FWD49",
     "name": "Gang Beast"
   },
   {
-    "url": "http://assets1.xboxlive.com/6/1ada7cda-4483-4a89-8b6e-867ee3a86f05/e7a7aa15-6b79-4dd4-ba75-e090489f545b/1.14.1.0.2e2f4a77-1155-40f3-a183-c869cd03bc03/CurveDigital.HumanFallFlat_1.14.1.0_x64__1ezqdnbhnc70m.msixvc",
+    "productId": "BPQZT43FWD49",
     "name": "Human fall flat"
   },
   {
-    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/419f51b0-9c8c-4929-a004-898abb39b46c?P1=1726107744&P2=404&P3=2&P4=GYbiCg3L8wgW%2bBPWUxQjauoQJjVInf2oHb8LXjCB%2fhOmcFic2iOfM6yCVJerBC%2fVhz9JE79FHWz%2b5UaHVCcAkQ%3d%3d",
+    "productId": "9NBLGGH43KZB",
     "name": "Astroneer"
   },
   {
-    "url": "http://assets1.xboxlive.com/7/bc21d763-6898-43a8-9f85-2b43aa3d6db1/fcda7254-c643-4841-a171-e32d81804ee1/1.2.42145.0.71444cb9-35ee-43e9-9a8b-b4c1f589a80f/ROCKFISHGames.EVERSPACE2_1.2.42145.0_x64__wm11qtfe9fmzj.msixvc",
-    "name": "Everspace"
+    "productId": "9PFX7F33KVG8",
+    "name": "Everspace 2"
   },
   {
     "productId": "9NCJSXWZTP88",
     "name": "Starfield"
   },
   {
-    "url": "http://assets1.xboxlive.com/9/c6aef7d3-fb79-418c-959d-b884afd812bf/ff4f9db9-ad59-4fe1-bf90-a3b205f0f4a5/0.0.7.0.6560b4a1-629e-482b-8474-b88476c4c0e3/BethesdaSoftworks.PGPreorderContentwPkg_0.0.7.0_x64__3275kfvn8vcwc.msixvc",
+    "productId": "",
     "name": "Starfield DLC"
   },
   {
-    "url": "http://assets1.xboxlive.com/13/6b3b5b9b-77e8-4bb0-94c0-5f263643ae71/239bb116-7c0e-47a6-b38b-af8d7b8e3c16/1.24.0.0.4969f2f2-1f7a-464f-91fd-2f812db5c4c3/BethesdaSoftworks.SkyrimSE-PC_1.24.0.0_x64__3275kfvn8vcwc.msixvc",
+    "productId": "9P03JGQ4S1GC",
     "name": "Skyrim Special Edition"
   },
   {
-    "url": "http://assets1.xboxlive.com/11/26dd2558-017c-4ba7-965c-8a7cd0da2a56/d8ffe038-7663-40d9-aecb-c6995dc8e09a/6.0.21.0.5115e4f7-122c-4756-8a43-c19196a84ad8/WarnerBros.Interactive.ea2bab08-46b7-40e4-bdd5-590_6.0.21.0_x64__ktmk1xygcecda.msixvc",
+    "productId": "BT3611GR00CQ",
     "name": "Gotham Knight"
   },
   {
@@ -60,59 +60,63 @@
     "name": "FarCry 5 (Soon)"
   },
   {
-    "url": "http://assets1.xboxlive.com/4/53cfb28d-ea22-4780-b92e-2ac60637202a/adf69f25-3efa-4a96-8cc7-a89d21fe390d/1.1.5.0.958dd8fe-0a84-4ee3-a943-89744e41bb35/FrictionalGames.AmnesiaTheBunker_1.1.5.0_x64__yhrbwy6qaj8bt.msixvc",
+    "productId": "9PC15H56NGJK",
     "name": "Amnesia: The Bunker"
   },
   {
-    "url": "http://assets1.xboxlive.com/8/681cc0eb-b774-4cab-9609-ca76d8707966/14a4a2bb-8454-4753-bc7a-3327ee1b343f/1.0.46.0.e8ea7e43-0b85-4b80-9c72-3fc35756cbc7/TripwireInteractiveLLC.Chivalry2_1.0.46.0_x64__237dqjpew1r3m.msixvc",
+    "productId": "9N7CJX93ZGWN",
     "name": "Chivalry 2"
   },
   {
-    "url": "http://assets1.xboxlive.com/8/352f37db-ddbb-46df-8fdc-f76096b69eb1/73b8ebee-d904-4fcb-a9f5-1a4ae5e90b0c/8979.204.1650.0.59a358c5-d364-4179-bad9-910ca08cb02c/FuncomOsloAS.ConanExiles_8979.204.1650.0_x64__pkaskhy6cdq4g.msixvc",
+    "productId": "C2X6ZCNKN2WR",
     "name": "Conan Exile"
   },
   {
-    "url": "http://assets1.xboxlive.com/11/a2589629-8a8a-4b5c-9f2c-ae74063c878e/c7e6d20e-64be-4559-b938-e46b38681820/8.2.200.0.712b7616-859b-4d44-9f8d-a28a55c80f0d/BehaviourInteractive.DeadbyDaylightWindows_8.2.200.0_x64__b1gz2xhdanwfm.msixvc",
+    "productId": "9NMS4SFNBGBH",
     "name": "Dead by Daylight"
   },
   {
-    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c454e302-9b2d-4c91-a318-68a52f608d3d?P1=1726705440&P2=404&P3=2&P4=VPmG%2fbuTlAqhd%2fYtA3r5FVb4FzD2CT%2fpggU%2fQGF%2f9EYcxmgodU%2fIdcHPZgZFEmMSX1s2eUfYZyD78jRXIBmWGw%3d%3d",
+    "productId": "9N6Z8DQXSQWH",
     "name": "Disneyland Adventure"
   },
   {
-    "url": "http://assets1.xboxlive.com/9/7e625b90-9aec-4822-a688-f75552436510/faf2ec8b-abea-4a55-9617-6e78cdc77bd3/12.2.19.0.75f71d53-29b3-4741-90e0-f5f8aa15c0fd/A278AB0D.DisneyDreamlightValley_12.2.19.0_x64__h6adky7gbf63m.msixvc",
+    "productId": "9NSF0BGH8D86",
     "name": "Disney Dreamlight Valley"
   },
   {
-    "url": "http://assets1.xboxlive.com/10/bc70fe4e-b2de-403c-8c2f-2f7c93482b5a/d07a8552-f6b3-4342-a803-fec1572025ed/1.1.6.0.33b93a1a-e71d-48b1-8b6b-0e54b5af7ab3/CoffeeStainStudios.GoatSimulator3PC_1.1.6.0_x64__496a1srhmar9w.msixvc",
+    "productId": "9PDS2N82QNXG",
     "name": "Goat Simulator 3"
   },
   {
-    "url": "http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/95c6f47e-b7bf-40af-910d-242db58ab88c?P1=1726705710&P2=404&P3=2&P4=IHVZxRyrW6Ou0uPjFm%2b9Ih5kRf972NhLJh5wq6CLqeWaUs9I4%2bzHgZYN4lG04CeJZXtNzHKeEy7phrYcOK1%2f6g%3d%3d",
+    "productId": "9MXWKHJ3VZZH",
     "name": "Goat Simulator"
   },
   {
-    "url": "http://assets1.xboxlive.com/13/79c7c879-c93f-4419-b4d0-eb8dde4d0d87/407465c8-8d0e-4a22-9a42-2e6777029619/2.4.257.0.9e985427-eb17-49aa-acd7-9b15abb20fb4/Microsoft.Maine_2.4.257.0_x64__8wekyb3d8bbwe.msixvc",
+    "productId": "9PJTHRNVH62H",
     "name": "Grounded"
   },
   {
-    "url": "http://assets1.xboxlive.com/6/75d6147b-289d-4e33-a001-c568f3c74fc2/9f9ee79e-b11c-4935-b2bd-8d39651e00de/1.2.621.0.feff0c4e-5f4f-463f-8ad3-4e2d21a840ad/Rebellion.52602B995C00E_1.2.621.0_x64__2vbwqmt31j4mr.msixvc",
+    "productId": "9PP8Q82H79LC",
     "name": "Sniper Elite 5"
   },
   {
-    "url": "http://assets1.xboxlive.com/4/2ab695f4-a612-4438-861e-b1324fefba47/7b025cd7-ed9c-441e-beb7-1bb55d3dff10/20.2405.22.0.8f0294cd-63b6-4589-ad98-98aaecb13eac/39C668CD.PowerWashSimulator_20.2405.22.0_x64__r7bfsmp40f67j.msixvc",
+    "productId": "9NHDJC0NW20M",
     "name": "PowerWash Simulator"
   },
   {
-    "url": "http://assets1.xboxlive.com/7/e79a5dba-ab03-4752-ac7e-6aafa67a0cac/8bbf2763-a1c6-4f1b-96ca-b79dd5fda4ee/1.5.696.0.8ec885f8-a462-4886-b5b2-3125e7750de9/PrivateDivision.TheOuterWorldsWindows10_1.5.696.0_x64__hv3d7yfbgr2rp.msixvc",
+    "productId": "9MWD2Z8L1FBQ",
     "name": "The Outer Worlds"
   },
   {
-    "url": "http://assets1.xboxlive.com/5/9e29fcdc-702d-47dd-827b-c71902950302/b8df4dbc-9587-4eab-a6ba-ab2868d15233/1.0.5.0.6d49c450-2335-4ca9-b109-8c070080af0b/PillowCastle.Superliminal_1.0.5.0_x64__r6zr3eg4hg8h4.msixvc",
+    "productId": "9NVR4ZQKNBSB",
     "name": "Superliminal"
   },
   {
-    "url": "http://assets1.xboxlive.com/6/46f40ba3-9a65-4814-a4af-d094ef93f026/f8a93d83-0584-4518-b8e7-f3a6c3c6c0ac/1.0.33.0.f70efd6e-91a6-4d2a-afae-9ccef5e1b477/38985CA0.COREBase_1.0.33.0_x64_ww_5bkah9njm3e9g.msixvc",
+    "productId": "C596FKDKMQN7",
+    "name": "Outer Wilds"
+  },
+  {
+    "productId": "9N58QRBG9WDG",
     "name": "Call of Duty: Black Ops 6"
   }
 ]
