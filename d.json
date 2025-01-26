@@ -1,0 +1,425 @@
+[
+  {
+    "Type": "Material",
+    "Name": "MM_WorldAligned_SRO",
+    "Class": "UScriptClass'Material'",
+    "ClassPath": "/Script/Engine.Material",
+    "Properties": {
+      "OpacityMaskClipValue": 0.5,
+      "MaterialAttributes": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMakeMaterialAttributes_0"
+      },
+      "bUsedWithInstancedStaticMeshes": true,
+      "bEnableCrackFreeDisplacement": true,
+      "bUseMaterialAttributes": true,
+      "StateId": "EF66C63F-47F98F43-BA7CD0B3-131C60F8",
+      "CachedExpressionData": {
+        "Parameters": {
+          "RuntimeEntries": {
+            "NameHashes": [
+              3374365783382202529,
+              11441244591749603803
+            ],
+            "ParameterInfos": [
+              {
+                "Name": "Texture Size",
+                "Association": "GlobalParameter",
+                "Index": -1
+              },
+              {
+                "Name": "Tightening",
+                "Association": "GlobalParameter",
+                "Index": -1
+              }
+            ],
+            "ExpressionGuids": [
+              "11CCF494-46E9CB56-2694C780-41996BCA",
+              "CF43F907-4BCB5FB7-40F5DAB9-E820A042"
+            ]
+          },
+          "RuntimeEntries": {
+            "NameHashes": [
+              6792474360618410216,
+              12076515603125919684,
+              13690561732087317255
+            ],
+            "ParameterInfos": [
+              {
+                "Name": "SRO Map",
+                "Association": "GlobalParameter",
+                "Index": -1
+              },
+              {
+                "Name": "Normal Map",
+                "Association": "GlobalParameter",
+                "Index": -1
+              },
+              {
+                "Name": "Diffuse Map",
+                "Association": "GlobalParameter",
+                "Index": -1
+              }
+            ],
+            "ExpressionGuids": [
+              "0FC49031-43CB7C5A-1E0B43BD-7FDB0D5D",
+              "912A161E-4B8C26E6-F733A4AC-D1A0215E",
+              "CFFB6FD9-44C49300-9A9A7186-3A841595"
+            ]
+          },
+          "ScalarValues": [
+            1024.0,
+            0.576
+          ],
+          "TextureValues": [
+            {
+              "ObjectName": "Texture2D'base_Black_SRO'",
+              "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_Black_SRO.0"
+            },
+            {
+              "ObjectName": "Texture2D'base_flat_n'",
+              "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_flat_n.0"
+            },
+            {
+              "ObjectName": "Texture2D'base_white_d'",
+              "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_white_d.0"
+            }
+          ]
+        },
+        "ReferencedTextures": [
+          {
+            "ObjectName": "Texture2D'base_white_d'",
+            "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_white_d.0"
+          },
+          {
+            "ObjectName": "Texture2D'base_flat_n'",
+            "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_flat_n.0"
+          },
+          {
+            "ObjectName": "Texture2D'base_Black_SRO'",
+            "ObjectPath": "/Game/Environment/MasterMaterials/BaseTextures/base_Black_SRO.0"
+          },
+          {
+            "ObjectName": "Texture2D'DefaultDiffuse'",
+            "ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.0"
+          },
+          {
+            "ObjectName": "Texture2D'DefaultNormal_Uncompressed'",
+            "ObjectPath": "/Engine/EngineMaterials/DefaultNormal_Uncompressed.0"
+          },
+          null
+        ],
+        "FunctionInfos": [
+          {
+            "StateId": "8189A4A8-40E739E1-E4FFE09C-1092124E",
+            "Function": {
+              "ObjectName": "MaterialFunction'AddComponents'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/AddComponents.0"
+            }
+          },
+          {
+            "StateId": "A9E4F021-46161CC9-A22A4F96-722D7232",
+            "Function": {
+              "ObjectName": "MaterialFunction'SplitComponents'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SplitComponents.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "3EE3B871-49D51F51-87459885-6F81BF5F",
+            "Function": {
+              "ObjectName": "MaterialFunction'MF_WorldAlignedTextureFast'",
+              "ObjectPath": "/Game/MaterialFunctions/MF_WorldAlignedTextureFast.0"
+            }
+          },
+          {
+            "StateId": "8189A4A8-40E739E1-E4FFE09C-1092124E",
+            "Function": {
+              "ObjectName": "MaterialFunction'AddComponents'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/AddComponents.0"
+            }
+          },
+          {
+            "StateId": "A9E4F021-46161CC9-A22A4F96-722D7232",
+            "Function": {
+              "ObjectName": "MaterialFunction'SplitComponents'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SplitComponents.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "E6A85460-4E707DD6-EBF457B4-A3E80A43",
+            "Function": {
+              "ObjectName": "MaterialFunction'MakeFloat3'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "972EFAAA-4C1C2B16-4BC287A2-B11C51DA",
+            "Function": {
+              "ObjectName": "MaterialFunction'SafeNormalize'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize.0"
+            }
+          },
+          {
+            "StateId": "B404464D-42313D79-E67091AA-AD61BE51",
+            "Function": {
+              "ObjectName": "MaterialFunction'CreateThirdOrthogonalVector'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.0"
+            }
+          },
+          {
+            "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+            "Function": {
+              "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+            }
+          },
+          {
+            "StateId": "C330DE33-4A86FAB2-7255B1AC-3A6AC1B4",
+            "Function": {
+              "ObjectName": "MaterialFunction'Transform3x3Matrix'",
+              "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.0"
+            }
+          },
+          {
+            "StateId": "3EE3B871-49D51F51-87459885-6F81BF5F",
+            "Function": {
+              "ObjectName": "MaterialFunction'MF_WorldAlignedTextureFast'",
+              "ObjectPath": "/Game/MaterialFunctions/MF_WorldAlignedTextureFast.0"
+            }
+          }
+        ],
+        "QualityLevelsUsed": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    "HWMatHash": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00"
+  }
+]
